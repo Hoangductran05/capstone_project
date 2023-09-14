@@ -16,9 +16,7 @@ const contact = () => {
   <div className="contact-wrapper-details p-5">
     <div className="container-xxl">
       <div className="row text-center align-items-center">
-        <div className="col-lg-6 col-md-12 p-3">
-          
-        </div>
+    
         <div className="col-lg-6 col-md-12">
             <div className="card p-5">
                 <h2 className='footer-title mb-3'><b>Contact Us</b></h2>
